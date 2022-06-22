@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GianinaLC/openbootcamp/issues"
   },
-  "homepage": "https://github.com/GianinaLC/openbootcamp#readme"
+  "homepage": "https://github.com/GianinaLC/openbootcamp#readme",
+  "dependencies": {
+    "winston": "^3.7.2"
+  }
 }
