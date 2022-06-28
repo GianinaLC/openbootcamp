@@ -1,8 +1,8 @@
 {
-  "name": "openbootcamp",
+  "name": "01-introduccion",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "hola_mundo.js",
   "scripts": {
     "saludar": "node hola_mundo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
